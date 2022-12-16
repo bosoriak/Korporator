@@ -21,7 +21,8 @@ namespace Korporator
             "That is not an issue, it is a feature request.",
             "Let's organize a meeting to clarify the situation.",
             "For this we'd need to review the unallocated team capacity.",
-            "This might significantly impact our product pipeline."
+            "This might significantly impact our product pipeline.",
+            "Groundbreaking changes are inevitable, we need to be ready."
 
         };
 
