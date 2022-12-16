@@ -20,7 +20,8 @@ namespace Korporator
             "We will have to create an action plan for this topic.",
             "That is not an issue, it is a feature request.",
             "Let's organize a meeting to clarify the situation.",
-            "For this we'd need to review the unallocated team capacity."
+            "For this we'd need to review the unallocated team capacity.",
+            "This might significantly impact our product pipeline."
 
         };
 
