@@ -10,7 +10,7 @@ namespace Korporator
     {
         string[] answers = {
             "Very valuable insight!",
-            "Under other circumstances, \nit would be meaningful to elaborate.",
+            "Under other circumstances it would be meaningful to elaborate.",
             "There are no shortcuts on the road to success.",
             "I'm struggling to understand the core thought.",
             "This is a very beneficial expression.",
@@ -34,13 +34,13 @@ namespace Korporator
         {
             string input = MyTextBox.Text;
 
-                // Generate random number
-                Random rnd = new Random();
-                int index = rnd.Next(answers.Length);
+            // Generate random number
+            Random rnd = new Random();
+            int index = rnd.Next(answers.Length);
 
-                // Show random answer
-                AnswerTextBlock.Text = (answers[index]);
-         
+            // Show random answer
+            AnswerTextBlock.Text = (answers[index]);
+
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
